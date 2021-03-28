@@ -11,7 +11,7 @@ library(tuneR)
 library(seewave)
 library(soundecology)
 # Read the sound file and convert into a R object
-soundfile <- readWave(file = "2017_02_07_23_50_29.wav") # where x is an wave audio file; keep double quotes in place
+soundfile <- readWave(file = "2017_02_07_23_50_29.wav") # where x is an wave audio file; keep double quotes in place and substitute the file by your own
 # Create the spectrogram without drawing it on screen
 soundfile.spectrogram <- spectro(soundfile, wl = 1024, ovlp = 50, plot = FALSE) 
 # Calculate first ACI according to Pieretti et al. 2011
