@@ -8,5 +8,5 @@
 
 - - Run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6
 
-It can changed and improved all the time as well as forked if you wish.
+It can be changed and improved all the time as well as forked if you wish.
 
