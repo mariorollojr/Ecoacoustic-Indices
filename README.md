@@ -1,4 +1,4 @@
-# Intro
+## Intro
 
 - This is a rather small R script representing a shortcut/ alternative to the most used, or global, indices for ecoacoustic analysis.
 
