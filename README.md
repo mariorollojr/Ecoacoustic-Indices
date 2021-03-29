@@ -1,21 +1,21 @@
-# Ecoacoustic Indices
+# Intro
 
-- This is a rather small script representing a shortcut analysis alternative to the most used, or global, indices for ecoacoustic evaluation.
+- This is a rather small R script representing a shortcut/ alternative to the most used, or global, indices for ecoacoustic analysis.
 
-- It is adapted from the initial Python scripting by @patriceguyot, so it contains the same indices in the very same order.
+- It is adapted from the initial Python scripting by @patriceguyot, so it contains almost all the same indices in the same order.
 
-- It takes the indices built in the R packages soundecology and seewave.
+- It takes the indices built in the R packages soundecology (Villanueva-Rivera) and seewave (Sueur).
 
 -  Run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6
 
 - It can be changed and improved all the time as well as forked if you wish.
 
-## Indices
+## The indices
 
 ACI - Acoustic Complexity Index - Pieretti et al. (2011)
 ADI - Acoustic Diversity Index - Villanueva-Rivera et al. (2011)
 AEI - coustic Evenness Index - Villanueva-Rivera et al. (2011)
-Bioacoustic Index - Boelman, et al. (2007)
+Bioacoustic Index - Boelmann et al. (2007)
 NDSI - Normalized Difference Sound Index - Kasten et al. (2012)
 SH - Spectral Entropy - Sueur et al. (2008)
 TH - Temporal Entropy - Sueur et al. (2008)
