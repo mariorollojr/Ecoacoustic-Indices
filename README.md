@@ -6,19 +6,21 @@
 
 - It takes the indices built in the R packages soundecology (Villanueva-Rivera) and seewave (Sueur).
 
--  Run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6
+- Substitute the example file by your own audio file; don't forget to set the right path to the file when running the script.
+
+-  This script was run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6
 
 - It can be changed and improved all the time as well as forked if you wish.
 
 ## The indices
 
-ACI - Acoustic Complexity Index - Pieretti et al. (2011)
-ADI - Acoustic Diversity Index - Villanueva-Rivera et al. (2011)
-AEI - coustic Evenness Index - Villanueva-Rivera et al. (2011)
-Bioacoustic Index - Boelmann et al. (2007)
-NDSI - Normalized Difference Sound Index - Kasten et al. (2012)
-SH - Spectral Entropy - Sueur et al. (2008)
-TH - Temporal Entropy - Sueur et al. (2008)
+- ACI - Acoustic Complexity Index - Pieretti et al. (2011)
+- ADI - Acoustic Diversity Index - Villanueva-Rivera et al. (2011)
+- AEI - coustic Evenness Index - Villanueva-Rivera et al. (2011)
+- Bioacoustic Index - Boelmann et al. (2007)
+- NDSI - Normalized Difference Sound Index - Kasten et al. (2012)
+- SH - Spectral Entropy - Sueur et al. (2008)
+- TH - Temporal Entropy - Sueur et al. (2008)
 
 ## References
 
