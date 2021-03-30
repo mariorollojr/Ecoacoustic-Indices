@@ -2,15 +2,17 @@
 
 - This is a rather small R script representing a shortcut/ alternative to the most used, or global, indices for ecoacoustic analysis.
 
-- It is adapted from the initial Python scripting by @patriceguyot, so it contains almost all the same indices in the same order.
+- It is inspired and adapted from the initial Python scripting by @patriceguyot, so it contains almost all the same indices in the same order.
 
 - It takes the indices built in the R packages soundecology (Villanueva-Rivera) and seewave (Sueur).
 
 - Substitute the example file by your own audio file; don't forget to set the right path to the file when running the script.
 
--  This script was run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6
+-  This script was run iniatilly in R version 4.0.4, with soundecology version 1.3.3 and seewave version 2.1.6.
 
-- It can be changed and improved all the time as well as forked if you wish.
+- At this moment, it still lacks capacity of running many files simultaneously, in a batch, as we call.
+
+- It can be changed and improved through cloning and forking at your wish. After all, it is a work on progress.
 
 ## The indices
 
@@ -22,7 +24,7 @@
 - SH - Spectral Entropy - Sueur et al. (2008)
 - TH - Temporal Entropy - Sueur et al. (2008)
 
-## References
+## The references
 
 Boelman NT, Asner GP, Hart PJ, Martin RE. 2007. Multi-trophic invasion resistance in Hawaii: bioacoustics, field surveys, and airborne remote sensing. Ecological Applications 17: 2137-2144.
 
