@@ -2,7 +2,7 @@
 
 - This is a rather small R script representing a shortcut/ alternative to the most used, or global, indices for ecoacoustic analysis.
 
-- It is inspired and adapted from the initial Python scripting by @patriceguyot, so it contains almost all the same indices in the same order.
+- It is inspired and adapted from the initial Python scripting by Patrice Guyot (https://github.com/patriceguyot/Acoustic_Indices), so it contains almost all the same indices in the same order.
 
 - It takes the indices built in the R packages soundecology (Villanueva-Rivera) and seewave (Sueur).
 
