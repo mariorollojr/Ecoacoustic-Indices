@@ -18,7 +18,7 @@
 
 - ACI - Acoustic Complexity Index - Pieretti et al. (2011)
 - ADI - Acoustic Diversity Index - Villanueva-Rivera et al. (2011)
-- AEI - coustic Evenness Index - Villanueva-Rivera et al. (2011)
+- AEI - Acoustic Evenness Index - Villanueva-Rivera et al. (2011)
 - Bioacoustic Index - Boelmann et al. (2007)
 - NDSI - Normalized Difference Sound Index - Kasten et al. (2012)
 - SH - Spectral Entropy - Sueur et al. (2008)
